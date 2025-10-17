@@ -10,7 +10,7 @@ import { IconDiv, DifDiv, WrapperDiv, List } from './Difficulty.styled'
 export const Difficulty = ({ level }) => {
     return (
         <>
-            <h1 style={{ fontSize: '55px', borderBottom: '3px solid #333', width: '90%', margin: '50px auto', marginTop: '20px'}}>Recipes</h1>
+            <h1 style={{ fontSize: '55px', borderBottom: '3px solid #333', width: '91%', margin: '50px auto', marginTop: '20px'}}>Recipes</h1>
             <List>
                 <li>
                     <img src={img1} alt='img1' />
