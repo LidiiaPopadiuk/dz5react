@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dz5react/static/css/main.f855e6bc.css",
-    "main.js": "/dz5react/static/js/main.87c04475.js",
+    "main.js": "/dz5react/static/js/main.41658127.js",
     "static/media/BA-0819-Go-Live-Grilled-Potato-Salad.webp": "/dz5react/static/media/BA-0819-Go-Live-Grilled-Potato-Salad.a81ca581cae9ae9d4620.webp",
     "static/media/0623-diana-yen-tomato-recipe-lede.webp": "/dz5react/static/media/0623-diana-yen-tomato-recipe-lede.a9d069cf5aada2063a4d.webp",
     "static/media/MARGHERITA_1200x.webp": "/dz5react/static/media/MARGHERITA_1200x.2e8413a5b6d389c13303.webp",
     "static/media/Smoked-Salmon-and-Dill-Yogurt-Burger2-500x500.png": "/dz5react/static/media/Smoked-Salmon-and-Dill-Yogurt-Burger2-500x500.b9328494d75d2f3bf71f.png",
     "index.html": "/dz5react/index.html",
     "main.f855e6bc.css.map": "/dz5react/static/css/main.f855e6bc.css.map",
-    "main.87c04475.js.map": "/dz5react/static/js/main.87c04475.js.map"
+    "main.41658127.js.map": "/dz5react/static/js/main.41658127.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.87c04475.js"
+    "static/js/main.41658127.js"
   ]
 }
